@@ -132,7 +132,7 @@
 		display: none;
 	}
 }
-#services .services-item .icon {
+#howdibsworks .services-item .icon {
     background: #e3fff2;
     width: 110px;
     height: 110px;
@@ -143,14 +143,14 @@
     border-radius: 50%;
     position: relative;
     margin-bottom: 25px; }
-  #services .services-item .icon i {
+  #howdibsworks .services-item .icon i {
     font-size: 40px;
     color: #3ecf8e;
     position: absolute;
     left: 0;
     right: 0;
     top: 30%; }
-    #showcase .video-promo-content {
+    #about .video-promo-content {
         padding-top: 0;
         padding-bottom: 50px; }
 
@@ -379,13 +379,13 @@
     line-height: 50px;
     margin: 0 0.3rem;
     border-radius: 5px;
-    color: #f4c9e2;
+    color: #3ecf8e;
     transition: all 0.3s ease;
 }
 
 .social-icons a:hover {
     text-decoration: none;
-    color: #e38cb7;
+    color: #1cbe75;
 }
 
 @media (max-width:991px) {
